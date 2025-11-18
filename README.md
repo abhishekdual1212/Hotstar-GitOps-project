@@ -1,8 +1,4 @@
 # DevSecOps CI/CD : Deploying a Secure Hotstar Clone (Even if You’re Not a Pro)
-# DevSecOps With Docker Scout Hotstar Clone
-
-#BLOG
-https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/
 
 ## ✅ Step 1: Clone the GitHub Repository
 
@@ -470,5 +466,10 @@ kubectl get namespaces
    - **Cluster URL:** `https://kubernetes.default.svc`
    - **Namespace:** `dev`
 4. Click **Create**.
+
+
+
+https://medium.com/@yaswanth.arumulla/kubernetes-monitoring-for-everyone-step-by-step-with-prometheus-grafana-b8582f0cf808
+
 
 
